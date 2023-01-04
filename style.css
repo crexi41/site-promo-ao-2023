@@ -142,3 +142,16 @@ body {
     color: #7b8386;
     margin: 0;
 }
+
+@media screen and (max-width: 480px) {
+    .img-top, .card, .divisor {
+        width: auto;
+    }
+body {
+    border: solid 2px;
+    background: linear-gradient(#ffffff, #cfede7, #a7dbed);
+    background-position: center;
+    background-attachment: fixed;
+    background-size: 560px;
+
+}
