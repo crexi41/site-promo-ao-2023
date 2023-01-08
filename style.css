@@ -42,7 +42,7 @@ body {
 }
 
 .seta img {
-    width: 10em;
+    width: 6em;
 }
 
 /* botão pagina inicial */
@@ -50,13 +50,12 @@ body {
     display: flex;
     justify-content: center;
     text-align: center;  
-    
 }
 
 .botao a {
     width: 300px;    
-    padding: 0.5em 1em;
-    margin: 20PX 0 20PX 0;
+    padding: 0.3em 1em;
+    margin: 10PX 0 10PX 0;
     display: block;
     font-size: 40px;
     text-decoration: none;
@@ -120,7 +119,6 @@ body {
     margin: 10px 0 0 0;
     width: 100%;
     max-width: 130px;
-    
 }
 
 .card__conteudo {
@@ -153,5 +151,4 @@ body {
     background-position: center;
     background-attachment: fixed;
     background-size: 560px;
-
 }
